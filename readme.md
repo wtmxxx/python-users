@@ -1,4 +1,4 @@
-﻿滴滴滴，[沃特陌](https://www.shr05.com/)与您汇报情况
+﻿滴滴滴，[沃特陌](https://www.wotemo.com/)与您汇报情况
 
 历经几个周末的时间，我终于将这款**用户注册与登录系统**做出来啦~撒花✿✿ヽ(°▽°)ノ✿
 
@@ -343,11 +343,11 @@ def checking():
  2. [Github](https://github.com/wotemo/users)：https://github.com/wotemo/users
 
 ### 七.联系方式
- 1. [我的博客](https://www.shr05.com/)：https://www.shr05.com/
+ 1. [我的博客](https://www.wotemo.com/)：https://www.wotemo.com/
  2. QQ：717542214
  3. 邮箱：wotemo@qq.com
  4. [Github](https://github.com/wotemo/)：https://github.com/wotemo/
  5. [CSDN](https://blog.csdn.net/shr105)：https://blog.csdn.net/shr105
 
-本代码由**沃特陌**（[Wotemo](https://www.shr05.com/)）自主编写，如有瑕疵可以和我反映哦~
+本代码由**沃特陌**（[Wotemo](https://www.wotemo.com/)）自主编写，如有瑕疵可以和我反映哦~
 如果有不懂的地方也可以和我交流哟(＾Ｕ＾)ノ~ＹＯ
