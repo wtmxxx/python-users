@@ -338,16 +338,13 @@ def checking():
  ![进程展示--验证码](https://img-blog.csdnimg.cn/88c66ef81d9d49bc8cb9ba0e8a1a6d46.png)
 
 ### 六.代码获取
-
- 1. [CSDN](https://download.csdn.net/download/shr105/85261749)（最多需5积分）：https://download.csdn.net/download/shr105/85261749
- 2. [Github](https://github.com/wotemo/users)：https://github.com/wotemo/users
+ 1. [Github](https://github.com/wtmxxx/users)：https://github.com/wtmxxx/users
 
 ### 七.联系方式
  1. [我的博客](https://www.wotemo.com/)：https://www.wotemo.com/
- 2. QQ：717542214
- 3. 邮箱：wotemo@qq.com
- 4. [Github](https://github.com/wotemo/)：https://github.com/wotemo/
- 5. [CSDN](https://blog.csdn.net/shr105)：https://blog.csdn.net/shr105
+ 2. QQ：保密
+ 3. 邮箱：保密
+ 4. [Github](https://github.com/wotemo/)：https://github.com/wtmxxx/
 
 本代码由**沃特陌**（[Wotemo](https://www.wotemo.com/)）自主编写，如有瑕疵可以和我反映哦~
 如果有不懂的地方也可以和我交流哟(＾Ｕ＾)ノ~ＹＯ
